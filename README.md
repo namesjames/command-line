@@ -13,6 +13,8 @@
 
 First, I'd recommend referencing the [cheat sheet](#) and making flash cards for the commands to go accompany you.
 
+##### Navigation
+
 Let's begin! Where are we? Seriously, where are we!?!? 
 
 A very helpful command that I use often is `pwd` present working directory. Which shows your where you currently are.
@@ -34,6 +36,12 @@ We can jump between Directories or 'Folders' with the command `cd` for change di
 Let's try it out, let's explore that directory!
 
 `cd directory` if your directory is not a single word, you'll need quotation marks, i.e. `cd "Let's Explore"
+
+Don't worry about getting trapped in a directory, you can easily navigate back with `cd ..` 
+
+To navigate back multiple directories in a single line, use `cd ../../../..` for however far you wish to go.
+
+##### Create
 
 Wasn't that great!? but we can't settle on just exploring these directories, let's create our own adventure!
 
