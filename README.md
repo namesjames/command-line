@@ -1,6 +1,17 @@
 # command-line-bible
 > Learn the ins and outs of CLI by James Conti 
 
+#### Other Tutorials
+
+* [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+* [Meet the Command Line](http://www.pluralsight.com/courses/meet-command-line)
+* [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial)
+
+##### Mastering:
+
+* [Advanced Command Line Techniques](http://code.tutsplus.com/courses/advanced-command-line-techniques)
+
 # Set Up
 
 * Open Spotlight `COMMAND + SPACE`
