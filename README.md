@@ -1,5 +1,9 @@
 # command-line-bible
-> Learn the ins and outs of CLI by James Conti 
+> Learn the ins and outs of CLI
+
+The command line is a text interface for the computer's operating system. To access the command line, we use the terminal.
+
+A filesystem organizes a computer's files and directories into a tree structure. It starts with the root directory. Each parent directory can contain more child directories and files.
 
 #### Other Tutorials
 
