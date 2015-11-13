@@ -7,6 +7,7 @@ A filesystem organizes a computer's files and directories into a tree structure.
 
 #### Other Tutorials
 
+* [Galvanize - How to Use Terminal](http://www.galvanize.com/blog/how-to-use-the-terminal-command-line/#.VkVKjRCrQ_V)
 * [codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * [Meet the Command Line](http://www.pluralsight.com/courses/meet-command-line)
